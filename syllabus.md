@@ -30,10 +30,10 @@ Lectures:
 
 ## Where to Find Info
 
-| What                      | Where                                     |
-|---------------------------|-------------------------------------------|
-| Course Management         | [Canvas](https://smu.instructure.com)     |
-| Course Info               | [GitHub](https://github.com)              |
+| What                      | Where                                        |
+|---------------------------|----------------------------------------------|
+| Course Management         | [Canvas](https://smu.instructure.com)        |
+| Course Info               | [GitHub](https://github.com)                 |
 | Course Webpage            | [markfontenot.net](https://markfontenot.net) |
 
 ## Catalog Description
