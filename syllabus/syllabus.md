@@ -1,7 +1,7 @@
 ---
 title: Syllabus
-has_children: false
-nav_order: 1
+has_children: true
+nav_order: 2
 ---
 
 # CS 2341 - Data Structures

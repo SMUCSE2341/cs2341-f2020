@@ -3,4 +3,16 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+nav_order: 1
 ---
+# Data Structures - Fall 2020
+
+Welcome to the website for our course this semester.  While there are two sections of lecture, we will operate in some sense as one big Data Structures Family!  
+
+Check out the list of links on the left.  I'll be adding to it over the next few days and, of course, throughout the semester.  
+
+## Zoom Info for Tuning In
+
+**Important** - you have to be logged in to Zoom through your smu.edu account to use these links.  Go to [SMU's Zoom Sign-in Page](http://smu.zoom.us/signin) to log in.  That page also has some helpful information for using the Zoom client as well.  
+
+[Section 801 (9am)  Zoom Link](https://smu.zoom.us/j/97683317170){: .btn .btn-blue}  [Section 802 (11am) Zoom Link](https://smu.zoom.us/j/99143017642){: .btn .btn-blue}
