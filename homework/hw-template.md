@@ -1,6 +1,6 @@
 ---
-Title: Homework 01
-Parent: Homework
+title: Homework 01
+parent: Homework
 layout: default
 nav_order: 1
 ---
