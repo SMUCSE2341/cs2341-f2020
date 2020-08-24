@@ -11,6 +11,7 @@ nav_order: 1
 
 - Join Slack.  You'll get an email with an invite link. 
 - No labs this week. 
+- Read the Syllabus. 
 
 ## Your To Do List
 
