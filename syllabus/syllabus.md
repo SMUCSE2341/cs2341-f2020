@@ -25,16 +25,17 @@ As a similar saying goes, programming languages are to computer science what ham
 ## Course Info
 
 Lectures:
-- MWF 9:00 - 9:50
-- MWF 11:00 - 11:50 
+- Section 801 MWF 9:00 - 9:50
+- Section 802 MWF 11:00 - 11:50 
 
 ## Where to Find Info
 
 | What                      | Where                                        |
 |---------------------------|----------------------------------------------|
 | Course Management         | [Canvas](https://smu.instructure.com)        |
-| Course Info               | [GitHub](https://github.com)                 |
-| Course Webpage            | [markfontenot.net](https://markfontenot.net) |
+| Course Info               | [CS 2341 GH Pages](https://smucse2341.github.io/cs2341-f2020/)                 |
+| Slack                     | [Fontenot's Workspace](https://fontenotsclasses.slack.com) |
+
 
 ## Catalog Description
 
@@ -46,7 +47,9 @@ C- or better in CS 1342 or equivalent or permission of Dr. Fontenot
 
 ## Textbooks
 
-Shaffer, Cliff. *Data Structures and Algorithm Analysis, C++ version*, Edition 3.2, Dover publications.  Available in PDF at [Dr. Shaffer's Website](http://people.cs.vt.edu/~shaffer/Book)
+- Shaffer, Cliff. *Data Structures and Algorithm Analysis, C++ version*, Edition 3.2, Dover publications.  Available in PDF at [Dr. Shaffer's Website](http://people.cs.vt.edu/~shaffer/Book)
+- Morin, Pat, *Open Data Structures in C++*, [Book PDF](http://opendatastructures.org/ods-cpp.pdf). 
+
 
 **Notes about Books** - I'm not a huge fan of textbooks.  I think they are overpriced and provide a false sense of security of the scope of a subject.  However, they are quite useful as an organized treatment of a topic.  It is important that you learn how to **figure things out** on your own.  For this reason, I typically don't follow any textbook very closely.  
 
