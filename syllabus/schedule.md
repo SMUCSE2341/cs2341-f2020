@@ -12,8 +12,8 @@ The schedule below is most definitely subject to change as the semester progress
 
 |Week      |Color|Topic                                  |Reading            |Materials                          |
 |----------|:---:|---------------------------------------|-------------------|-----------------------------------|
-|08/24/20  |Blue |Introduction; C++ Review               |   |   | 
-|08/31/20  |Red  |Memory Management with Linked Lists    |   |   | 
+|08/24/20  |Blue |Introduction; C++ Review               | [LearnCPP](https://learncpp.com)  |   | 
+|08/31/20  |Red  |Memory Management with Linked Lists    | [LearnCPP](/mnt/qnap-media/Boys/Aug2020-03) Sec P.6.7-P.6.14 & Ch 13 on Templates |   | 
 |09/07/20  |Blue |Advanced OOP with Dictionaries         |   |   | 
 |09/14/20  |Red  |Algorithm Analysis                     |   |   |    
 |09/21/20  |Blue |Sorting Algos                          |   |   |    
