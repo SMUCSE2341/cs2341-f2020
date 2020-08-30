@@ -1,0 +1,6 @@
+
+
+
+- Output file
+    - Line 1: precision of classifier, with exactly 4 decimal places of precision.  
+    - Remaining lines: The IDs of the rows of the test data set that were classified incorrectly, one ID per line. 
