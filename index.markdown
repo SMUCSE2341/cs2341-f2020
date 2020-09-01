@@ -16,3 +16,11 @@ Check out the list of links on the left.  I'll be adding to it over the next few
 **Important** - you have to be logged in to Zoom through your smu.edu account to use these links.  Go to [SMU's Zoom Sign-in Page](http://smu.zoom.us/signin) to log in.  That page also has some helpful information for using the Zoom client as well.  
 
 [Section 801 (9am)  Zoom Link](https://smu.zoom.us/j/97683317170){: .btn .btn-blue}  [Section 802 (11am) Zoom Link](https://smu.zoom.us/j/99143017642){: .btn .btn-blue}
+
+## Helpful Info
+
+- [CS Help Desk Schedule](http://bit.ly/F20CSHelpDesk)
+- Updates Log:
+  - **Sept 1** - Posted Help Desk Schedule
+  - **Aug 31** - Updated PA 01 docs on the DSString Class and TDD.  They are linked from the [PA01](projects/pa01.md/#implementation-requirements) assignment page in Implementation Requirements section.
+  
