@@ -16,7 +16,7 @@ nav_order: 4
 |Link                                                 |Due                 |
 |-----------------------------------------------------|:------------------:|
 |[Homework 01](./hw01.docx)                           |Sept 2, 2020 @ 11pm |
-| Homework 02 ||
+|[Homework 02](./hw02.docx)                           |Sept 9, 2020 @ 11pm |
 | Homework 03 ||
 | Homework 04 ||
 | Homework 05 ||
