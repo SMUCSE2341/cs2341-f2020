@@ -2,6 +2,6 @@
   "python.pythonPath": "/home/mark/anaconda3/envs/cs1340/bin/python", 
   "[markdown]":{
         "editor.wordWrap": "wordWrapColumn",
-        "editor.wordWrapColumn": 100,
+        "editor.wordWrapColumn": 80,
     },
 }
