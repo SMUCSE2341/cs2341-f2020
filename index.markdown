@@ -25,6 +25,7 @@ Lab Zoom links can be found on [this](https://docs.google.com/spreadsheets/d/17H
 
 - [CS Help Desk Schedule](http://bit.ly/F20CSHelpDesk)
 - Updates Log:
+  - **Sept 20** - Made some updates to the PA 02 handout.  See the errata and FAQ section of the doc. 
   - **Sept 1** - Posted Help Desk Schedule; added lab zoom links!
   - **Aug 31** - Updated PA 01 docs on the DSString Class and TDD.  They are linked from the [PA01](projects/pa01.md/#implementation-requirements) assignment page in Implementation Requirements section.
   
