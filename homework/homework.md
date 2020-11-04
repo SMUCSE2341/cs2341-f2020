@@ -17,8 +17,8 @@ nav_order: 4
 |-----------------------------------------------------|:------------------:|
 |[Homework 01](./hw01.docx)                           |Sept 2, 2020 @ 11pm |
 |[Homework 02](./hw02.docx)                           |Sept 9, 2020 @ 11pm |
-|[Homework 03](./hw03.docx)                            |Sept 30, 2020 @ 11pm|
-| Homework 04 ||
+|[Homework 03](./hw03.docx)                           |Sept 30, 2020 @ 11pm|
+|[Homework 04](./hw04.docx)                           |Nov 11, 2020 @ 11pm |
 | Homework 05 ||
 | Homework 06 ||
 | Homework 07 ||
